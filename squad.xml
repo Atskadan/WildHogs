@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<!DOCTYPE squad SYSTEM "squad.dtd">
+<?xml-stylesheet href="squad.xsl?" type="text/xsl"?>
+<squad nick="Wild Hogs">
+	<name>Wild Hogs</name>
+	<email>contact@wildhogs.canadian-pharmacy.org</email>
+	<web>http://steamcommunity.com/groups/tactical_geniuses</web>
+	<picture>insignia.paa</picture>
+	<title>Wild Hogs</title>
+	<member id="76561198004648109" nick="Petethegoat">
+		<name>Petethegoat</name>
+		<email></email>
+		<icq></icq>
+		<remark>gay for gosling</remark>
+	</member>
+	<member id="420" nick="An0n3">
+		<name>An0n3</name>
+		<email></email>
+		<icq></icq>
+		<remark>kawaii in the sheets, sempai in the sheets</remark>
+	</member>
+	<member id="64" nick="K-64">
+		<name>K-64</name>
+		<email></email>
+		<icq></icq>
+		<remark>super scot frottage</remark>
+	</member>
+	<member id="451" nick="Upgradecap">
+		<name>Upgradecap</name>
+		<email></email>
+		<icq></icq>
+		<remark>swedish special sauces</remark>
+	</member>
+</squad>
