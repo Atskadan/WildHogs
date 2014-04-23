@@ -143,7 +143,7 @@
 			<objectives>
 				<objective success="1">Build up hall's defences</objective>
 				<objective success="1">Deck all enemies</objective>
-				<objective success="1" outcomedetails="Blue power!">Take all halls</objective>
+				<objective success="1" outcomedetails="Red power!">Take all halls</objective>
 			</objectives>
 			<screenshots>
 				<screenshot caption="Chaaaargeeee">http://cloud-4.steampowered.com/ugc/3300320532396485453/F9257EC669CB40E40C0D1C38E083DF3F6A9ECD3E/</screenshot>
