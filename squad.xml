@@ -51,11 +51,23 @@
 		<bio>After being run over by friendly forces on sixteen different occasions in Afghanistan, Ryan decided to contract with us.</bio>
 		<picture>http://i.imgur.com/YYTgVQq.jpg?1</picture>
 		<missions>
-			<mission id='1'>
-				<missionname>First Operation</missionname>
+			<mission codename='BURRITO'>
+				<description>Get the burrito from the local burrito store and don't tip.</description>
+				<objectives>
+					<objective>Go to store</objective>
+					<objective>Kill random orphan</objective>
+					<objective>Take burrito and not pay</objective>
+				</objectives>
+				<AAR>The mission was a horrible failure. The retrieved burrito was COLD! The operator has received a heavy pay reduction to compensate.</AAR>
 			</mission>
-			<mission id='2'>
-				<missionname>Second Operation</missionname>
+			<mission codename='FLASHSTAB'>
+				<description>First Operation</description>
+				<objectives>
+					<objective>First Objective</objective>
+					<objective>Second Objective</objective>
+					<objective>Third Objective</objective>
+				</objectives>
+				<AAR>AAR</AAR>
 			</mission>
 		</missions>
 	</member>
