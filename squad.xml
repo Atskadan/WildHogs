@@ -71,14 +71,15 @@
 				<AAR>The mission was a horrible failure. The retrieved burrito was COLD! The operator has received a heavy pay deduction to compensate.</AAR>
 			</mission>
 			<mission codename='FLASHSTAB'>
-				<description>First Operation</description>
-				<date>23 April 2014</date>
+				<description>As part of the initiation, every operative must perform a FLASHSTAB operation.</description>
+				<date>1 March 2014</date>
 				<objectives>
-					<objective success="1">First Objective</objective>
-					<objective success="1">Second Objective</objective>
-					<objective success="1">Third Objective</objective>
+					<objective success="1">Find enemy</objective>
+					<objective success="1">Perform FLASHSTAB</objective>
+					<objective success="1">Prepare butt for ceremonial spanking</objective>
+					<objective success="1">Complete initiation ceremony</objective>
 				</objectives>
-				<AAR>AAR</AAR>
+				<AAR>Perfectly performed. The operative was admitted as a full member after this operation.</AAR>
 			</mission>
 		</individualmissions>
 	</member>
