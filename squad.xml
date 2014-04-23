@@ -136,28 +136,28 @@
 		<icq></icq>
 		<remark>wyzeguy or something fuck i dunno it's hard to come up with these</remark>
 	</member>
-</squad>
 
-<groupmissions>
-	<mission codename='FORTBOOM'>
-		<description>We are red, they are blue. Red superiority demands that we destroy all the halls.</description>
-		<date>23 April 2014</date>
-		<objectives>
-			<objective success="1">Build up hall's defences</objective>
-			<objective success="1">Deck all enemies</objective>
-			<objective success="1" outcomedetails="Blue power!">Take all halls</objective>
-		</objectives>
-		<screenshots>
-			<screenshot caption="Chaaaargeeee">http://cloud-4.steampowered.com/ugc/3300320532396485453/F9257EC669CB40E40C0D1C38E083DF3F6A9ECD3E/</screenshot>
-		</screenshots>
-		<AAR>BLUE TEAM WORST TEAM, RED TEAM SUPERIOR TEAM.</AAR>
-		<operatives>
-			<operative id="76561197995891905" nick="Errorage">
-				<contributions>Ryan kicked ass, because he is good at knighting.</contributions>
-			</operative>
-			<operative id="76561198004648109" nick="Petethegoat">
-				<contributions>John was killing people left and right and all over the place, cause he's a hero.</contributions>
-			</operative>
-		</operatives>
-	</mission>
-</groupmissions>
+	<groupmissions>
+		<mission codename='FORTBOOM'>
+			<description>We are red, they are blue. Red superiority demands that we destroy all the halls.</description>
+			<date>23 April 2014</date>
+			<objectives>
+				<objective success="1">Build up hall's defences</objective>
+				<objective success="1">Deck all enemies</objective>
+				<objective success="1" outcomedetails="Blue power!">Take all halls</objective>
+			</objectives>
+			<screenshots>
+				<screenshot caption="Chaaaargeeee">http://cloud-4.steampowered.com/ugc/3300320532396485453/F9257EC669CB40E40C0D1C38E083DF3F6A9ECD3E/</screenshot>
+			</screenshots>
+			<AAR>BLUE TEAM WORST TEAM, RED TEAM SUPERIOR TEAM.</AAR>
+			<operatives>
+				<operative id="76561197995891905" nick="Errorage">
+					<contributions>Ryan kicked ass, because he is good at knighting.</contributions>
+				</operative>
+				<operative id="76561198004648109" nick="Petethegoat">
+					<contributions>John was killing people left and right and all over the place, cause he's a hero.</contributions>
+				</operative>
+			</operatives>
+		</mission>
+	</groupmissions>
+</squad>
