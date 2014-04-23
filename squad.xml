@@ -59,11 +59,11 @@
 					<objective>Take burrito and not pay</objective>
 				</objectives>
 				<screenshots>
-					<screenshot>http://cloud-3.steampowered.com/ugc/3282306133867560229/0699FD2CB30059A2AD553FF2FF3623353970CE75/</screenshot>
-					<screenshot>http://cloud-3.steampowered.com/ugc/3282306133867560229/0699FD2CB30059A2AD553FF2FF3623353970CE75/</screenshot>
-					<screenshot>http://cloud-3.steampowered.com/ugc/3282306133867560229/0699FD2CB30059A2AD553FF2FF3623353970CE75/</screenshot>
+					<screenshot caption="Ryan kills innocents">http://cloud-3.steampowered.com/ugc/3282306133867560229/0699FD2CB30059A2AD553FF2FF3623353970CE75/</screenshot>
+					<screenshot caption="The burrito man surrenders">http://cloud-3.steampowered.com/ugc/3282306133867560229/0699FD2CB30059A2AD553FF2FF3623353970CE75/</screenshot>
+					<screenshot caption="The pay deduction">http://cloud-3.steampowered.com/ugc/3282306133867560229/0699FD2CB30059A2AD553FF2FF3623353970CE75/</screenshot>
 				</screenshots>
-				<AAR>The mission was a horrible failure. The retrieved burrito was COLD! The operator has received a heavy pay reduction to compensate.</AAR>
+				<AAR>The mission was a horrible failure. The retrieved burrito was COLD! The operator has received a heavy pay deduction to compensate.</AAR>
 			</mission>
 			<mission codename='FLASHSTAB'>
 				<description>First Operation</description>
