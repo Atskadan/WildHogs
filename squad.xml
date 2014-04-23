@@ -50,6 +50,10 @@
 		<displayname>'Roadkill' Ryan</displayname>
 		<bio>After being run over by friendly forces on sixteen different occasions in Afghanistan, Ryan decided to contract with us.</bio>
 		<picture>http://i.imgur.com/YYTgVQq.jpg?1</picture>
+		<dateenlisted>17 February 2014</dateenlisted>
+		<nationality>Slovenian</nationality>
+		<birthday></birthday>
+		<age>24</age>
 		<individualmissions>
 			<mission codename='BURRITO'>
 				<description>Get the burrito from the local burrito store and don't tip.</description>
