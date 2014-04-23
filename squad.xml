@@ -50,6 +50,14 @@
 		<displayname>'Roadkill' Ryan</displayname>
 		<bio>After being run over by friendly forces on sixteen different occasions in Afghanistan, Ryan decided to contract with us.</bio>
 		<picture>http://i.imgur.com/YYTgVQq.jpg?1</picture>
+		<missions>
+			<mission id='1'>
+				<missionname>First Operation</missionname>
+			</mission>
+			<mission id='2'>
+				<missionname>Second Operation</missionname>
+			</mission>
+		</missions>
 	</member>
 	<member id="76561198004313980" nick="Tsaricide">
 		<name>Tsaricide</name>
