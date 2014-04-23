@@ -55,9 +55,9 @@
 				<description>Get the burrito from the local burrito store and don't tip.</description>
 				<date>23 April 2014</date>
 				<objectives>
-					<objective>Go to store</objective>
-					<objective>Kill random orphan</objective>
-					<objective>Take burrito and not pay</objective>
+					<objective success="1">Go to store</objective>
+					<objective success="1">Kill random orphan</objective>
+					<objective success="0" details="Took a cold burrito">Take burrito and not pay</objective>
 				</objectives>
 				<screenshots>
 					<screenshot caption="Ryan kills innocents">http://cloud-3.steampowered.com/ugc/3282306133867560229/0699FD2CB30059A2AD553FF2FF3623353970CE75/</screenshot>
@@ -70,9 +70,9 @@
 				<description>First Operation</description>
 				<date>23 April 2014</date>
 				<objectives>
-					<objective>First Objective</objective>
-					<objective>Second Objective</objective>
-					<objective>Third Objective</objective>
+					<objective success="1">First Objective</objective>
+					<objective success="1">Second Objective</objective>
+					<objective success="1">Third Objective</objective>
 				</objectives>
 				<AAR>AAR</AAR>
 			</mission>
