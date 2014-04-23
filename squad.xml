@@ -50,9 +50,10 @@
 		<displayname>'Roadkill' Ryan</displayname>
 		<bio>After being run over by friendly forces on sixteen different occasions in Afghanistan, Ryan decided to contract with us.</bio>
 		<picture>http://i.imgur.com/YYTgVQq.jpg?1</picture>
-		<missions>
+		<individualmissions>
 			<mission codename='BURRITO'>
 				<description>Get the burrito from the local burrito store and don't tip.</description>
+				<date>23 April 2014</date>
 				<objectives>
 					<objective>Go to store</objective>
 					<objective>Kill random orphan</objective>
@@ -67,6 +68,7 @@
 			</mission>
 			<mission codename='FLASHSTAB'>
 				<description>First Operation</description>
+				<date>23 April 2014</date>
 				<objectives>
 					<objective>First Objective</objective>
 					<objective>Second Objective</objective>
@@ -74,7 +76,7 @@
 				</objectives>
 				<AAR>AAR</AAR>
 			</mission>
-		</missions>
+		</individualmissions>
 	</member>
 	<member id="76561198004313980" nick="Tsaricide">
 		<name>Tsaricide</name>
