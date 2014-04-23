@@ -57,7 +57,7 @@
 				<objectives>
 					<objective success="1">Go to store</objective>
 					<objective success="1">Kill random orphan</objective>
-					<objective success="0" details="Took a cold burrito">Take burrito and not pay</objective>
+					<objective success="0" outcomedetails="Took a cold burrito">Take burrito and not pay</objective>
 				</objectives>
 				<screenshots>
 					<screenshot caption="Ryan kills innocents">http://cloud-3.steampowered.com/ugc/3282306133867560229/0699FD2CB30059A2AD553FF2FF3623353970CE75/</screenshot>
