@@ -152,10 +152,10 @@
 		</screenshots>
 		<AAR>BLUE TEAM WORST TEAM, RED TEAM SUPERIOR TEAM.</AAR>
 		<operatives>
-			<operative nick="Errorage">
+			<operative id="76561197995891905" nick="Errorage">
 				<contributions>Ryan kicked ass, because he is good at knighting.</contributions>
 			</operative>
-			<operative nick="Petethegoat">
+			<operative id="76561198004648109" nick="Petethegoat">
 				<contributions>John was killing people left and right and all over the place, cause he's a hero.</contributions>
 			</operative>
 		</operatives>
