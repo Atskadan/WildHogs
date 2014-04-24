@@ -95,12 +95,35 @@
 		<icq></icq>
 		<remark>anton the manton</remark>
 	</member>
-	<member id="451" nick="Neerti">
+	<member id="76561198018148790" nick="Neerti">
 		<name>Neerti</name>
 		<email></email>
 		<icq></icq>
-		<remark>i got nothin</remark>
-	</member>
+		<remark>Professional professional</remark>
+		<displayname>'Effing' Ellis</displayname>
+		<bio>Due to an incident involving a mortar shell colliding with a friendly helicopter, Ellis has decided to work for us, with the side benefit of hiding him when needed.</bio>
+		<picture></picture>
+		<dateenlisted>20 Feburary 2014</dateenlisted>
+		<nationality>United States, Earth, Sol, Milky Way, Known Universe, Pete's Mind</nationality>
+		<birthday>Whenever it gets me free stuff.</birthday>
+		<age>25</age>
+		<individualmissions>
+			<mission codename='FUKKENDISK'>
+				<description>Steal a green floppydisk from a corporate building.</description>
+				<date>14 March 2014</date>
+				<objectives>
+					<objective success="1">Infiltrate the building</objective>
+					<objective success="1">Steal the green floppy.</objective>
+					<objective success="0" outcomedetails="Slipped on a wet floor, lost the floppy.">Escape with floppy.</objective>
+				</objectives>
+				<screenshots>
+					<screenshot caption=""></screenshot>
+					<screenshot caption=""></screenshot>
+					<screenshot caption=""></screenshot>
+				</screenshots>
+				<AAR>Horrible failure, the employees attempted to murder him after he fell due to wearing his operator uniform.  He escaped alive but lost the disk somewhere along the way.</AAR>
+			</mission>
+		</individualmissions>
 	<member id="76561198025027996" nick="Miggles">
 		<name>Miggles</name>
 		<email>Noahmig@excite.com</email>
