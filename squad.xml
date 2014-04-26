@@ -200,5 +200,16 @@
 			</operatives>
 		</mission>
 	</groupmissions>
-
+	<testimonials>
+			<testamonial>
+				<description>Wild Hogs Inc. helped me get my bitch ex-wife off my back! Thanks, Hogs!</description>
+				<author>Jimbo</author>
+				<job>Widower</job>
+			</testamonial>
+			<testamonial>
+				<description>When I needed a group of hardened ex or pre-military operators, I didn't know where to turn! Thankfully I found Wild Hogs while searching for discount pharmacuticals!</description>
+				<author>Lard Wysing</author>
+				<job>CEO</job>
+			</testamonial>
+	</testimonials>
 </squad>
