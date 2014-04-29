@@ -19,6 +19,21 @@
 		<nationality>Vietnamese technically, but all American.</nationality>
 		<birthday>July 4th</birthday>
 		<age>39</age>
+		<individualmissions>
+			<mission codename='BALLS'>
+				<description>Get the balls and throw them in the vague direction of robots of different color. </description>
+				<date>29 April 2014</date>
+				<objectives>
+					<objective success="1">Get balls</objective>
+					<objective success="1" outcomedetails="NSFW">Apply balls to enemy face</objective>
+					<objective success="1">Repeat</objective>
+				</objectives>
+				<screenshots>
+					<screenshot caption='"Russel, you just blew me"'>http://www.ss13.eu/2014-04-29_00009.jpg</screenshot>
+				</screenshots>
+				<AAR>Lots of balls and lots of blowing. Success.</AAR>
+			</mission>
+		</individualmissions>
 	</member>
 	<member id="76561198014511270" nick="An0n3">
 		<name>An0n3</name>
