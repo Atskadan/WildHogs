@@ -43,6 +43,10 @@
 		<displayname>Biff Fistpunch</displayname>
 		<bio>Biff inherited the secret martial art of Punch Punching from his father and now puts his combat prowess to use for the Wild Hogs. Strangely, nobody has ever seen him actually punch anyone on the battlefield.</bio>
 		<picture>http://i.imgur.com/8lHkO5a.jpg?1</picture>
+		<dateenlisted></dateenlisted>
+		<nationality>Bork bork bork!</nationality>
+		<birthday></birthday>
+		<age></age>
 	</member>
 	<member id="76561197994864105" nick="K-64">
 		<name>K-64</name>
@@ -52,6 +56,10 @@
 		<displayname>Frank Killward</displayname>
 		<bio>Frank wears a kilt, and kills people.</bio>
 		<picture>http://i.imgur.com/kykwbii.jpg?1</picture>
+		<dateenlisted></dateenlisted>
+		<nationality>Bork bork bork!</nationality>
+		<birthday></birthday>
+		<age></age>
 	</member>
 	<member id="76561198023411701" nick="Upgradecap">
 		<name>Upgradecap</name>
@@ -112,12 +120,26 @@
 		<email></email>
 		<icq></icq>
 		<remark>vehicular manslaughter master</remark>
+		<displayname></displayname>
+		<bio></bio>
+		<picture></picture>
+		<dateenlisted></dateenlisted>
+		<nationality>Bork bork bork!</nationality>
+		<birthday></birthday>
+		<age></age>
 	</member>
 	<member id="76561198027548077" nick="Anton">
 		<name>Anton</name>
 		<email></email>
 		<icq></icq>
 		<remark>anton the manton</remark>
+		<displayname></displayname>
+		<bio></bio>
+		<picture></picture>
+		<dateenlisted></dateenlisted>
+		<nationality>Bork bork bork!</nationality>
+		<birthday></birthday>
+		<age></age>
 	</member>
 	<member id="76561198018148790" nick="Neerti">
 		<name>Neerti</name>
@@ -164,30 +186,65 @@
 		<email></email>
 		<icq></icq>
 		<remark>knee shooting expert</remark>
+		<displayname></displayname>
+		<bio></bio>
+		<picture></picture>
+		<dateenlisted></dateenlisted>
+		<nationality>Bork bork bork!</nationality>
+		<birthday></birthday>
+		<age></age>
 	</member>
 	<member id="76561198029341986" nick="Litmeuplol">
 		<name>Litmeuplol</name>
 		<email></email>
 		<icq></icq>
 		<remark>squad victrola</remark>
+		<displayname></displayname>
+		<bio></bio>
+		<picture></picture>
+		<dateenlisted></dateenlisted>
+		<nationality>Bork bork bork!</nationality>
+		<birthday></birthday>
+		<age></age>
 	</member>
 	<member id="76561198001185661" nick="Agouri">
 		<name>Agouri</name>
 		<email></email>
 		<icq></icq>
 		<remark>strongman and translator</remark>
+		<displayname></displayname>
+		<bio></bio>
+		<picture></picture>
+		<dateenlisted></dateenlisted>
+		<nationality>Bork bork bork!</nationality>
+		<birthday></birthday>
+		<age></age>
 	</member>
 	<member id="76561198003762609" nick="Marza">
 		<name>Marza</name>
 		<email></email>
 		<icq></icq>
 		<remark>warble</remark>
+		<displayname></displayname>
+		<bio></bio>
+		<picture></picture>
+		<dateenlisted></dateenlisted>
+		<nationality>Bork bork bork!</nationality>
+		<birthday></birthday>
+		<age></age>
 	</member>
 	<member id="76561198020580159" nick="Zack">
 		<name>Zack</name>
 		<email></email>
 		<icq></icq>
 		<remark>wyzeguy or something fuck i dunno it's hard to come up with these</remark>
+		<displayname></displayname>
+		<bio></bio>
+		<picture></picture>
+		<dateenlisted></dateenlisted>
+		<nationality>Bork bork bork!</nationality>
+		<birthday></birthday>
+		<age></age>
 	</member>
 	<groupmissions>
 		<mission codename='FORTBOOM'>
