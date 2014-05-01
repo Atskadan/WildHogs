@@ -299,6 +299,27 @@
 				</operative>
 			</operatives>
 		</mission>
+		<mission codename='CUTTHEJAP'>
+			<description>A friendly re-enactment of a famous battle.</description>
+			<date>1 May 2014</date>
+			<objectives>
+				<objective success="1">Participate in the re-enactment</objective>
+				<objective success="0">Don't embarass yourselves!</objective>
+			</objectives>
+			<screenshots>
+				<screenshot caption="Sergeant Pete and ensign Danno advance on a position that should never have been lost">http://www.ss13.eu/screenshots/ro2/2014-05-01_00003.jpg</screenshot>
+				<screenshot caption="Danno proves himself a hero by rushing into the building Pete is getting killed in">http://www.ss13.eu/screenshots/ro2/2014-05-01_00011.jpg</screenshot>
+			</screenshots>
+			<AAR>During this re-enactment of some battle or other, which is apparently super important or something - a re-enactment that involved real swords, real bullets and real death - Pete, Jordie, Danno and Erro held their own... poorly...</AAR>
+			<operatives>
+				<operative id="76561197995891905" nick="Errorage">
+					<contributions>Errorage's engineering skills are unmatched.</contributions>
+				</operative>
+				<operative id="76561198004648109" nick="Petethegoat">
+					<contributions>Pete's engineering and gunnery are a great combination.</contributions>
+				</operative>
+			</operatives>
+		</mission>
 	</groupmissions>
 	<testimonials>
 			<testamonial>
