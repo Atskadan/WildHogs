@@ -227,7 +227,7 @@
 		<remark>warble</remark>
 		<displayname></displayname>
 		<bio></bio>
-		<picture></picture>
+		<picture>http://www.ss13.eu/screenshots/profilepics/marza.png</picture>
 		<dateenlisted></dateenlisted>
 		<nationality>Bork bork bork!</nationality>
 		<birthday></birthday>
@@ -268,6 +268,34 @@
 				</operative>
 				<operative id="76561198018148790" nick="Neerti">
 					<contributions></contributions>
+				</operative>
+			</operatives>
+		</mission>
+		<mission codename='DIRIGIBLE'>
+			<description>The world has ended, and everything is steampunk airships. We were given the objective to stay alive at all costs, even if it meant losing our lives! Also we had to stay in a certain area for a certain amount of time, cuz that's a great plan for survival!</description>
+			<date>1 May 2014</date>
+			<objectives>
+				<objective success="1">Pilot ship</objective>
+				<objective success="1">Keep everything repaired properly</objective>
+				<objective success="1">Fire at and kill all airships that fly a different color</objective>
+				<objective success="1" outcomedetails="We are fucking amazing!">Most importantly: Survive</objective>
+			</objectives>
+			<screenshots>
+				<screenshot caption="Guns of motherfuckin' Pete">http://www.ss13.eu/screenshots/goi/2014-05-01_00008_goi.jpg</screenshot>
+				<screenshot caption="The deck in perfect condition... for a junker">http://www.ss13.eu/screenshots/goi/2014-05-01_00009_goi.jpg</screenshot>
+				<screenshot caption="Cap'n Marza the amazing">http://www.ss13.eu/screenshots/goi/2014-05-01_00010_goi.jpg</screenshot>
+				<screenshot caption="Pete and his rock re enacting that one scene from the Titanic">http://www.ss13.eu/screenshots/goi/2014-05-01_00012_goi.jpg</screenshot>
+			</screenshots>
+			<AAR>We survived. The same cannot be said for our enemies.</AAR>
+			<operatives>
+				<operative id="76561197995891905" nick="Errorage">
+					<contributions>Errorage's engineering skills are unmatched.</contributions>
+				</operative>
+				<operative id="76561198004648109" nick="Petethegoat">
+					<contributions>Pete's engineering and gunnery are a great combination.</contributions>
+				</operative>
+				<operative id="76561198003762609" nick="Marza">
+					<contributions>Marza took charge like a motherfucker and told us what to do, and we fucking done did it, and we fucking won.</contributions>
 				</operative>
 			</operatives>
 		</mission>
