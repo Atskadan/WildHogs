@@ -259,6 +259,19 @@
 		<birthday></birthday>
 		<age></age>
 	</member>
+	<member id="76561198020580159" nick="Nienhaus">
+		<name>Nienhaus</name>
+		<email></email>
+		<icq></icq>
+		<remark>wyzeguy or something fuck i dunno it's hard to come up with these</remark>
+		<displayname>Kert Jonson</displayname>
+		<bio></bio>
+		<picture>http://puu.sh/8wlBk.jpg</picture>
+		<dateenlisted>2, May, 2014</dateenlisted>
+		<nationality>German</nationality>
+		<birthday></birthday>
+		<age>22</age>
+	</member>
 	<groupmissions>
 		<mission codename='FORTBOOM'>
 			<description>We are red, they are blue. Red superiority demands that we destroy all the halls.</description>
