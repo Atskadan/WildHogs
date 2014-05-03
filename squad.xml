@@ -57,7 +57,7 @@
 		<bio>Biff inherited the secret martial art of Punch Punching from his father and now puts his combat prowess to use for the Wild Hogs. Strangely, nobody has ever seen him actually punch anyone on the battlefield.</bio>
 		<picture>http://i.imgur.com/8lHkO5a.jpg?1</picture>
 		<dateenlisted></dateenlisted>
-		<nationality>Bork bork bork!</nationality>
+		<nationality></nationality>
 		<birthday></birthday>
 		<age></age>
 	</member>
@@ -70,7 +70,7 @@
 		<bio>Frank wears a kilt, and kills people.</bio>
 		<picture>http://i.imgur.com/kykwbii.jpg?1</picture>
 		<dateenlisted></dateenlisted>
-		<nationality>Bork bork bork!</nationality>
+		<nationality></nationality>
 		<birthday></birthday>
 		<age></age>
 	</member>
@@ -78,14 +78,14 @@
 		<name>Upgradecap</name>
 		<email></email>
 		<icq></icq>
-		<remark>swedish special sauces</remark>
-		<displayname>Brad Stabman</displayname>
-		<bio>Brad loves to stab folks. He also owns a collection of 90s video recorders.</bio>
+		<remark>Tip kebab, remove fedora</remark>
+		<displayname>John Aesai</displayname>
+		<bio>After being unceremoniously fired from the Swedish airforce, John joined the Wild Hogs as a multirole operator. His specialities include: Removing Kebab, flying helicopters and blowing things up. John also loves to watch old action movies and feel like a hero.</bio>
 		<picture></picture>
-		<dateenlisted></dateenlisted>
-		<nationality>Bork bork bork!</nationality>
-		<birthday></birthday>
-		<age></age>
+		<dateenlisted>27 December 2013</dateenlisted>
+		<nationality>Swedish</nationality>
+		<birthday>Classified</birthday>
+		<age>34</age>
 	</member>
 	<member id="76561197995891905" nick="Errorage">
 		<name>Errorage</name>
@@ -137,7 +137,7 @@
 		<bio></bio>
 		<picture></picture>
 		<dateenlisted></dateenlisted>
-		<nationality>Bork bork bork!</nationality>
+		<nationality>Maple Syrup and Bacon</nationality>
 		<birthday></birthday>
 		<age></age>
 	</member>
@@ -150,7 +150,7 @@
 		<bio></bio>
 		<picture></picture>
 		<dateenlisted></dateenlisted>
-		<nationality>Bork bork bork!</nationality>
+		<nationality>Classified</nationality>
 		<birthday></birthday>
 		<age></age>
 	</member>
@@ -203,7 +203,7 @@
 		<bio></bio>
 		<picture></picture>
 		<dateenlisted></dateenlisted>
-		<nationality>Bork bork bork!</nationality>
+		<nationality>Britbong</nationality>
 		<birthday></birthday>
 		<age></age>
 	</member>
@@ -229,7 +229,7 @@
 		<bio></bio>
 		<picture></picture>
 		<dateenlisted></dateenlisted>
-		<nationality>Bork bork bork!</nationality>
+		<nationality></nationality>
 		<birthday></birthday>
 		<age></age>
 	</member>
@@ -242,7 +242,7 @@
 		<bio></bio>
 		<picture>http://www.ss13.eu/screenshots/profilepics/marza.png</picture>
 		<dateenlisted></dateenlisted>
-		<nationality>Bork bork bork!</nationality>
+		<nationality></nationality></nationality>
 		<birthday></birthday>
 		<age></age>
 	</member>
@@ -255,7 +255,7 @@
 		<bio></bio>
 		<picture></picture>
 		<dateenlisted></dateenlisted>
-		<nationality>Bork bork bork!</nationality>
+		<nationality></nationality>
 		<birthday></birthday>
 		<age></age>
 	</member>
@@ -267,7 +267,7 @@
 		<displayname>Kert Jonson</displayname>
 		<bio></bio>
 		<picture>http://puu.sh/8wlBk.jpg</picture>
-		<dateenlisted>2, May, 2014</dateenlisted>
+		<dateenlisted>2 May 2014</dateenlisted>
 		<nationality>German</nationality>
 		<birthday></birthday>
 		<age>23</age>
