@@ -15,6 +15,38 @@
 		<displayname>John Murder</displayname>
 		<bio>Born in 'Nam, John Murder swiftly excelled at murderin' folk. Now John is a key member of Wild Hogs Inc.</bio>
 		<picture>http://i.imgur.com/eJv1cSi.jpg?1</picture>
+		<dateenlisted>20 February 2014</dateenlisted>
+		<nationality>Vietnamese technically, but all American.</nationality>
+		<birthday>July 4th</birthday>
+		<age>39</age>
+		<individualmissions>
+			<mission codename='BALLS'>
+				<description>Get the balls and throw them in the vague direction of robots of different color. </description>
+				<date>29 April 2014</date>
+				<objectives>
+					<objective success="1">Get balls</objective>
+					<objective success="1" outcomedetails="NSFW">Apply balls to enemy face</objective>
+					<objective success="1">Repeat</objective>
+				</objectives>
+				<screenshots>
+					<screenshot caption='"Russel, you just blew me"'>http://www.ss13.eu/2014-04-29_00009.jpg</screenshot>
+				</screenshots>
+				<AAR>Lots of balls and lots of blowing. Success.</AAR>
+			</mission>
+		</individualmissions>
+	</member>
+	<member id="76561198000729452" nick="Pinky">
+		<name>Pinky</name>
+		<email></email>
+		<icq></icq>
+		<remark>The shadows hide the deadly panther</remark>
+		<displayname>Ivy Barlow</displayname>
+		<bio>Ever since her infamous brother, Declan, introduced the No Girls Allowed rule on their shared treehouse, Ivy has been trying to break into places undetected, eventually getting very good at stealth. Now she works in WildHogs' intelligence department.</bio>
+		<picture>http://i.imgur.com/zNzgSiC.png</picture>
+		<dateenlisted>18 March 2014</dateenlisted>
+		<nationality>USA USA USA!</nationality>
+		<birthday></birthday>
+		<age></age>
 	</member>
 	<member id="76561198014511270" nick="An0n3">
 		<name>An0n3</name>
@@ -24,6 +56,10 @@
 		<displayname>Biff Fistpunch</displayname>
 		<bio>Biff inherited the secret martial art of Punch Punching from his father and now puts his combat prowess to use for the Wild Hogs. Strangely, nobody has ever seen him actually punch anyone on the battlefield.</bio>
 		<picture>http://i.imgur.com/8lHkO5a.jpg?1</picture>
+		<dateenlisted></dateenlisted>
+		<nationality></nationality>
+		<birthday></birthday>
+		<age></age>
 	</member>
 	<member id="76561197994864105" nick="K-64">
 		<name>K-64</name>
@@ -33,14 +69,23 @@
 		<displayname>Frank Killward</displayname>
 		<bio>Frank wears a kilt, and kills people.</bio>
 		<picture>http://i.imgur.com/kykwbii.jpg?1</picture>
+		<dateenlisted></dateenlisted>
+		<nationality></nationality>
+		<birthday></birthday>
+		<age></age>
 	</member>
 	<member id="76561198023411701" nick="Upgradecap">
 		<name>Upgradecap</name>
 		<email></email>
 		<icq></icq>
-		<remark>swedish special sauces</remark>
-		<displayname>Brad Stabman</displayname>
-		<bio>Brad loves to stab folks. He also owns a collection of 90s video recorders.</bio>
+		<remark>Tip kebab, remove fedora</remark>
+		<displayname>John Aesai</displayname>
+		<bio>After being unceremoniously fired from the Swedish airforce, John joined the Wild Hogs as a multirole operator. His specialities include: Removing Kebab, flying helicopters and blowing things up. John also loves to watch old action movies and feel like a hero.</bio>
+		<picture>http://puu.sh/8xMOA.jpg</picture>
+		<dateenlisted>27 December 2013</dateenlisted>
+		<nationality>Swedish</nationality>
+		<birthday>Classified</birthday>
+		<age>34</age>
 	</member>
 	<member id="76561197995891905" nick="Errorage">
 		<name>Errorage</name>
@@ -88,54 +133,144 @@
 		<email></email>
 		<icq></icq>
 		<remark>vehicular manslaughter master</remark>
+		<displayname></displayname>
+		<bio></bio>
+		<picture></picture>
+		<dateenlisted></dateenlisted>
+		<nationality>Maple Syrup and Bacon</nationality>
+		<birthday></birthday>
+		<age></age>
 	</member>
 	<member id="76561198027548077" nick="Anton">
 		<name>Anton</name>
 		<email></email>
 		<icq></icq>
 		<remark>anton the manton</remark>
+		<displayname></displayname>
+		<bio></bio>
+		<picture></picture>
+		<dateenlisted></dateenlisted>
+		<nationality>Classified</nationality>
+		<birthday></birthday>
+		<age></age>
 	</member>
-	<member id="451" nick="Neerti">
+	<member id="76561198018148790" nick="Neerti">
 		<name>Neerti</name>
 		<email></email>
 		<icq></icq>
-		<remark>i got nothin</remark>
+		<remark>Professional professional</remark>
+		<displayname>'Effing' Ellis</displayname>
+		<bio>Due to an incident involving a mortar shell colliding with a friendly helicopter, Ellis has decided to work for us, with the side benefit of hiding him when needed.</bio>
+		<picture></picture>
+		<dateenlisted>20 Feburary 2014</dateenlisted>
+		<nationality>United States, Earth, Sol, Milky Way, Known Universe, Pete's Mind</nationality>
+		<birthday>Whenever it gets me free stuff.</birthday>
+		<age>25</age>
+		<individualmissions>
+			<mission codename='FUKKENDISK'>
+				<description>Steal a green floppydisk from a corporate building.</description>
+				<date>14 March 2014</date>
+				<objectives>
+					<objective success="1">Infiltrate the building</objective>
+					<objective success="1">Steal the green floppy.</objective>
+					<objective success="0" outcomedetails="Slipped on a wet floor, lost the floppy.">Escape with floppy.</objective>
+				</objectives>
+				<screenshots>
+				</screenshots>
+				<AAR>Horrible failure, the employees attempted to murder him after he fell due to wearing his operator uniform.  He escaped alive but lost the disk somewhere along the way.</AAR>
+			</mission>
+		</individualmissions>
 	</member>
 	<member id="76561198025027996" nick="Miggles">
 		<name>Miggles</name>
-		<email></email>
+		<email>Noahmig@excite.com</email>
 		<icq></icq>
-		<remark>freestyle rap producer</remark>
+		<remark>Professional beatboxing douchebag</remark>
+		<displayname>Aaron Aviators</displayname>
+		<bio>A former celebrity known for beatboxing, Aaron has joined the Wild Hogs to muck up the place and make everyone jealous of his sick shades.</bio>
+		<picture>http://puu.sh/8kUuW.png</picture>
+		<dateenlisted>17 February 2014</dateenlisted>
+		<nationality>'MURICAN</nationality>
+		<birthday></birthday>
+		<age>Enough to party.</age>
 	</member>
 	<member id="76561198039942853" nick="The Commissar">
 		<name>The Commissar</name>
 		<email></email>
 		<icq></icq>
 		<remark>knee shooting expert</remark>
+		<displayname></displayname>
+		<bio></bio>
+		<picture></picture>
+		<dateenlisted></dateenlisted>
+		<nationality>Britbong</nationality>
+		<birthday></birthday>
+		<age></age>
 	</member>
 	<member id="76561198029341986" nick="Litmeuplol">
 		<name>Litmeuplol</name>
 		<email></email>
 		<icq></icq>
 		<remark>squad victrola</remark>
+		<displayname></displayname>
+		<bio></bio>
+		<picture></picture>
+		<dateenlisted></dateenlisted>
+		<nationality>Bork bork bork!</nationality>
+		<birthday></birthday>
+		<age></age>
 	</member>
 	<member id="76561198001185661" nick="Agouri">
 		<name>Agouri</name>
 		<email></email>
 		<icq></icq>
 		<remark>strongman and translator</remark>
+		<displayname></displayname>
+		<bio></bio>
+		<picture></picture>
+		<dateenlisted></dateenlisted>
+		<nationality></nationality>
+		<birthday></birthday>
+		<age></age>
 	</member>
 	<member id="76561198003762609" nick="Marza">
 		<name>Marza</name>
 		<email></email>
 		<icq></icq>
 		<remark>warble</remark>
+		<displayname></displayname>
+		<bio></bio>
+		<picture>http://www.ss13.eu/screenshots/profilepics/marza.png</picture>
+		<dateenlisted></dateenlisted>
+		<nationality></nationality>
+		<birthday></birthday>
+		<age></age>
 	</member>
 	<member id="76561198020580159" nick="Zack">
 		<name>Zack</name>
 		<email></email>
 		<icq></icq>
 		<remark>wyzeguy or something fuck i dunno it's hard to come up with these</remark>
+		<displayname></displayname>
+		<bio></bio>
+		<picture></picture>
+		<dateenlisted></dateenlisted>
+		<nationality></nationality>
+		<birthday></birthday>
+		<age></age>
+	</member>
+	<member id="76561198012119761" nick="Nienhaus">
+		<name>Nienhaus</name>
+		<email></email>
+		<icq></icq>
+		<remark>wyzeguy or something fuck i dunno it's hard to come up with these</remark>
+		<displayname>Kert Jonson</displayname>
+		<bio></bio>
+		<picture>http://puu.sh/8wlBk.jpg</picture>
+		<dateenlisted>2 May 2014</dateenlisted>
+		<nationality>German</nationality>
+		<birthday></birthday>
+		<age>23</age>
 	</member>
 	<groupmissions>
 		<mission codename='FORTBOOM'>
@@ -157,8 +292,110 @@
 				<operative id="76561198004648109" nick="Petethegoat">
 					<contributions>John was killing people left and right and all over the place, cause he's a hero.</contributions>
 				</operative>
+				<operative id="76561198018148790" nick="Neerti">
+					<contributions></contributions>
+				</operative>
+			</operatives>
+		</mission>
+		<mission codename='DIRIGIBLE'>
+			<description>The world has ended, and everything is steampunk airships. We were given the objective to stay alive at all costs, even if it meant losing our lives! Also we had to stay in a certain area for a certain amount of time, cuz that's a great plan for survival!</description>
+			<date>1 May 2014</date>
+			<objectives>
+				<objective success="1">Pilot ship</objective>
+				<objective success="1">Keep everything repaired properly</objective>
+				<objective success="1">Fire at and kill all airships that fly a different color</objective>
+				<objective success="1" outcomedetails="We are fucking amazing!">Most importantly: Survive</objective>
+			</objectives>
+			<screenshots>
+				<screenshot caption="Guns of motherfuckin' Pete">http://www.ss13.eu/screenshots/goi/2014-05-01_00008_goi.jpg</screenshot>
+				<screenshot caption="The deck in perfect condition... for a junker">http://www.ss13.eu/screenshots/goi/2014-05-01_00009_goi.jpg</screenshot>
+				<screenshot caption="Cap'n Marza the amazing">http://www.ss13.eu/screenshots/goi/2014-05-01_00010_goi.jpg</screenshot>
+				<screenshot caption="Pete and his rock re enacting that one scene from the Titanic">http://www.ss13.eu/screenshots/goi/2014-05-01_00012_goi.jpg</screenshot>
+			</screenshots>
+			<AAR>We survived. The same cannot be said for our enemies.</AAR>
+			<operatives>
+				<operative id="76561197995891905" nick="Errorage">
+					<contributions>Errorage's engineering skills are unmatched.</contributions>
+				</operative>
+				<operative id="76561198004648109" nick="Petethegoat">
+					<contributions>Pete's engineering and gunnery are a great combination.</contributions>
+				</operative>
+				<operative id="76561198003762609" nick="Marza">
+					<contributions>Marza took charge like a motherfucker and told us what to do, and we fucking done did it, and we fucking won.</contributions>
+				</operative>
+			</operatives>
+		</mission>
+		<mission codename='CUTTHEJAP'>
+			<description>A friendly re-enactment of a famous battle.</description>
+			<date>1 May 2014</date>
+			<objectives>
+				<objective success="1">Participate in the re-enactment</objective>
+				<objective success="0">Don't embarass yourselves!</objective>
+			</objectives>
+			<screenshots>
+				<screenshot caption="Sergeant Pete and ensign Danno advance on a position that should never have been lost">http://www.ss13.eu/screenshots/ro2/2014-05-01_00003.jpg</screenshot>
+				<screenshot caption="Danno proves himself a hero by rushing into the building Pete is getting killed in">http://www.ss13.eu/screenshots/ro2/2014-05-01_00011.jpg</screenshot>
+			</screenshots>
+			<AAR>During this re-enactment of some battle or other, which is apparently super important or something - a re-enactment that involved real swords, real bullets and real death - Pete, Jordie, Danno and Erro held their own... poorly...</AAR>
+			<operatives>
+				<operative id="76561197995891905" nick="Errorage">
+					<contributions>Errorage's engineering skills are unmatched.</contributions>
+				</operative>
+				<operative id="76561198004648109" nick="Petethegoat">
+					<contributions>Pete's engineering and gunnery are a great combination.</contributions>
+				</operative>
 			</operatives>
 		</mission>
 	</groupmissions>
-
+	<testimonials>
+		<testamonial>
+			<description>Wild Hogs Inc. helped me get my bitch ex-wife off my back! Thanks, Hogs!</description>
+			<author>Jimbo</author>
+			<job>Widower</job>
+		</testamonial>
+		<testamonial>
+			<description>When I needed a group of hardened ex or pre-military operators, I didn't know where to turn! Thankfully I found Wild Hogs while searching for discount pharmacuticals!</description>
+			<author>Lard Wysing</author>
+			<job>CEO</job>
+		</testamonial>
+		<testamonial>
+			<description>Joining Wild Hogs Inc. gave me the confidence I needed to kick my meth habit! Now I barely ever get high during the line of duty!</description>
+			<author>John Murder</author>
+			<job>Wild Hogs Contractor</job>
+		</testamonial>
+		<testamonial>
+			<description>B'Elanna is of the female race</description>
+			<author>Myroc 2014</author>
+			<job>Wild Hogs Contractor</job>
+		</testamonial>
+	</testimonials>
+	<media>
+		<video>
+			<title>Wild Hogs XXIV: An0n3's Secret Plan</title>
+			<author>An0n3</author>
+			<date>4 April 2014</date>
+			<description>An0n3 executes his secret plan.</description>
+			<game>Arma 3</game>
+			<participants>An0n3, Petethegoat, K-64, Upgradecap</participants>
+			<url>https://www.youtube.com/watch?v=Mza8xsYpTw8</url>
+		</video>
+		<video>
+			<title>Arma 3: Tactical Squash Identification</title>
+			<author>An0n3</author>
+			<date>1 April 2014</date>
+			<description>An0n3 sees a pumpkin.</description>
+			<game>Arma 3</game>
+			<participants>An0n3, Petethegoat, K-64, Upgradecap</participants>
+			<url>https://www.youtube.com/watch?v=SfQmdiZsJWY</url>
+		</video>
+		<video>
+			<title>Wild Hogs Take Flight</title>
+			<author>An0n3</author>
+			<date>3 April 2014</date>
+			<description>Wildhogs earning their wings.</description>
+			<game>DCS World</game>
+			<participants>An0n3, Petethegoat, K-64</participants>
+			<url>https://www.youtube.com/watch?v=J4CEYYzmQHU</url>
+		</video>
+	</media>
 </squad>
